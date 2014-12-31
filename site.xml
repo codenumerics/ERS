@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.codenumerics.ers.feature_1.0.0.jar" id="com.codenumerics.ers.feature" version="1.0.0">
+      <category name="Embedded Reservation Space"/>
+   </feature>
+   <feature url="features/com.codenumerics.ers.client.feature_1.0.0.jar" id="com.codenumerics.ers.client.feature" version="1.0.0">
+      <category name="Embedded Reservation Space"/>
+   </feature>
+   <category-def name="Embedded Reservation Space" label="Embedded Reservation Space"/>
+</site>
